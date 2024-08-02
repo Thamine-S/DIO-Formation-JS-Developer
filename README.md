@@ -4,4 +4,3 @@
 ![Projetos](https://github.com/user-attachments/assets/4519e46a-29b4-4c3f-885d-bce37ddf08cf)
 ![Ferramentas](https://github.com/user-attachments/assets/d9730b7f-1000-499b-8cdd-aa936d840d1b)
 
-[![Certificações](https://github.com/user-attachments/assets/f17475af-671f-4bb8-91fc-daa397add2a4)]()
